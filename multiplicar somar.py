@@ -13,7 +13,7 @@ while opção != 5:
         print('A soma de {} e {} da {}'.format(n1,n2,s))
     elif opção == 2:
         s  = n1 * n2
-        print('o numero {} X {} tem o resultado de {}'.format(n1,n2,s))
+        print('A multiplicação de {} X {} tem o resultado de {}'.format(n1,n2,s))
     elif opção == 3:
         if n1 > n2:
             maior = n1
