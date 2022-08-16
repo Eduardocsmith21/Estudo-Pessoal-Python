@@ -1,7 +1,7 @@
 from random import randint
 pc = randint(0,10)
 print('Sou seu computador...Acabei de pensar em um numero entre 0 e 10')
-print('Aerá que vocçê consege adivinha?')
+print('Será que vocçê consege adivinha?')
 ac = False
 pal = 0
 while not ac:
